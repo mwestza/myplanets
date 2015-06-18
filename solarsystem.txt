@@ -1,5 +1,5 @@
-PLANETS:
-=======
+The Planets:
+
 Mercury
 Venus
 Earth - green planet
