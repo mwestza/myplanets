@@ -5,3 +5,4 @@ Mars
 Jupiter
 Saturn
 #TODO Add more planets
+Pluto
