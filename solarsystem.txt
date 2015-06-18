@@ -1,7 +1,9 @@
+The Planets:
+
 Mercury
 Venus
 Earth - green planet
 Mars - red planet
 Jupiter
 Saturn
-Pluto
+Pluto - dwarf planet
