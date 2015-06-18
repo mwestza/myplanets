@@ -1,7 +1,9 @@
+PLANETS:
+=======
 Mercury
 Venus
 Earth - green planet
 Mars - red planet
 Jupiter
 Saturn
-Pluto
+Pluto - not a planet
