@@ -1,7 +1,7 @@
 Mercury
 Venus
-Earth
-Mars
+Earth - home
+Mars - red planet
 Jupiter
 Saturn
 #TODO Add more planets
