@@ -6,4 +6,3 @@ Jupiter
 Saturn
 #TODO Add more planets
 Pluto
-a mistake
