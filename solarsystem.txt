@@ -4,5 +4,4 @@ Earth - home
 Mars - red planet
 Jupiter
 Saturn
-#TODO Add more planets
 Pluto
